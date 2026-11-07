@@ -1,0 +1,55 @@
+{
+  "format": "suishenjing.scripture",
+  "schemaVersion": 1,
+  "book": {
+    "id": "example-kai-jing-ji",
+    "revision": 1,
+    "title": "開經偈示例",
+    "fullTitle": "開經偈（導入格式示例）",
+    "author": "漢傳佛教課誦儀文 · 格式示例整理",
+    "tradition": "buddhist",
+    "introduction": "本文件演示古代課誦儀文的正文、出處、段落释义及字詞標注。此為格式示例，不是完整課誦本；整理其他文獻時請替換書名、標識、底本與全部正文。",
+    "tags": [
+      "common",
+      "ritual"
+    ],
+    "aliases": [
+      "开经偈导入示例"
+    ],
+    "source": {
+      "name": "佛光山線上共修：誦經程序",
+      "version": "2026-11-07 核對之開經偈摘錄",
+      "url": "https://wm.fgs.org.tw/vbc/procedure.aspx",
+      "license": "古代中文偈文；示例只包含古文及自行撰寫的格式說明，不包含網站現代解說、圖片或版式。",
+      "licenseURL": "",
+      "notes": "摘錄開經偈四句，保留原字；正文換行按偈頌整理。下方释义及拼音為格式演示整理，非網站原注，不代表傳承誦音。"
+    },
+    "chapters": [
+      {
+        "id": "opening",
+        "title": "開經偈",
+        "paragraphs": [
+          {
+            "id": "opening-verse",
+            "text": "無上甚深微妙法，\n百千萬劫難遭遇。\n我今見聞得受持，\n願解如來真實義。",
+            "kind": "verse",
+            "sourceLocator": "誦經程序 → 開經偈（四句全文）",
+            "annotation": {
+              "text": "此偈表達得聞佛法的珍重與理解經義的願望。",
+              "attribution": "格式示例編者自撰說明，非底本原注。"
+            },
+            "terms": [
+              {
+                "word": "甚深",
+                "pinyin": "shèn shēn",
+                "meaning": "非常深。",
+                "attribution": "格式示例編者依現代漢語普通話標注；非傳承誦音。",
+                "automatic": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
