@@ -22,4 +22,6 @@ title: 随身经 · 帮助与隐私
 
 ---
 
-部分功能随应用版本提供，具体说明见使用帮助。测试版问题可通过 TestFlight 反馈。
+联系开发者：[chiuyan.ning@gmail.com](mailto:chiuyan.ning@gmail.com)
+
+部分功能随应用版本提供，具体说明见使用帮助。测试用户也可通过 TestFlight 反馈。
